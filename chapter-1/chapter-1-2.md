@@ -2,7 +2,7 @@
 
 使用嵌入的Intellij中的Spring Initializr工具，它同[Web](http://start.spring.io)提供的创建功能是一样的（同样你也可以使用这个网站创建），可以帮助我们快速的构建出一个基础的Spring Boot/Cloud工程。
 
-选择`create New Project` => `Spring Initializr` => 使用default的由[Web](http://start.spring.io)提供的功能就可以；
+选择`create New Project` => `Spring Initializr` => 使用default的由[Web](http://start.spring.io)提供的功能就可以；（Spring Boot 2.0 是需要java 1.8版本的）
 
 ![](https://ws2.sinaimg.cn/large/006tKfTcly1frqwrfbzfij30od0ai74f.jpg)
 
