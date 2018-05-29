@@ -17,11 +17,11 @@
 
 ### 2、Web开发
 
-* [2.1 构建一个较为复杂的 RESTful API ]()
-* [2.2 如何进行单元测试]()
-* [2.3 使用Thymeleaf模板引擎渲染web视图]()
-* [2.4 使用Freemarker模板引擎渲染web视图]()
-* [2.5 使用Velocity模板引擎渲染web视图]()
-* [2.6 使用Swagger2构建RESTful API]()
-* [2.7 统一异常处理]()
+* [2.1 构建一个较为复杂的 RESTful API ](https://github.com/wulijie/SpringBoot-Learning/blob/master/chapter-2/chapter-2-1.md)
+* [2.2 如何进行单元测试](https://github.com/wulijie/SpringBoot-Learning/blob/master/chapter-2/chapter-2-2.md)
+* [2.3 使用Thymeleaf模板引擎渲染web视图](https://github.com/wulijie/SpringBoot-Learning/blob/master/chapter-2/chapter-2-3.md)
+* [2.4 使用Freemarker模板引擎渲染web视图](https://github.com/wulijie/SpringBoot-Learning/blob/master/chapter-2/chapter-2-4.md)
+* [2.5 使用Velocity模板引擎渲染web视图](https://github.com/wulijie/SpringBoot-Learning/blob/master/chapter-2/chapter-2-5.md)
+* [2.6 使用Swagger2构建RESTful API](https://github.com/wulijie/SpringBoot-Learning/blob/master/chapter-2/chapter-2-6.md)
+* [2.7 统一异常处理](https://github.com/wulijie/SpringBoot-Learning/blob/master/chapter-2/chapter-2-7.md)
 
