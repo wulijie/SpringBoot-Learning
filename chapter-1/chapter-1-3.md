@@ -19,7 +19,7 @@
 当前项目的`pom.xml`内容如下，仅引入了两个模块：
 
 * `spring-boot-starter`：核心模块，包括自动配置支持、日志和YAML
-* `spring-boot-starter-test`：测试模块，包括JUnit、Hamcrest、Mockito
+* `spring-boot-starter-test`：测试模块，包括 `JUnit`、`Hamcrest`、`Mockito`
 
 ```xml
 <dependencies>

@@ -9,7 +9,7 @@
  点击 `Next` 等待片刻后，我们可以看到如下图所示的工程信息窗口，在这里我们可以编辑我们想要创建的工程信息。其中 `Type` => 可以改变我们要构建的工程类型，比如：Maven、Gradle；`Language` => 可以选择：Java、Groovy、Kotlin。`Group` => 一般填写公司名或者一些公益组织名等；`Artifact` => 写这个项目的名字；
 ![](https://ws1.sinaimg.cn/large/006tNc79ly1frr0cs68j7j30rd0gf74f.jpg)
 
-点击 `Next` 进入选择SpringBoot版本和依赖管理的窗口，在这里值得我们关注的是，它不仅包含了`Spring Boot Starter POMs`  的各种依赖，还包含了`Spring Boot Cloud` 的各种依赖；我选用
+点击 `Next` 进入选择SpringBoot版本和依赖管理的窗口，在这里值得我们关注的是，它不仅包含了`Spring Boot Starter POMs`  的各种依赖，还包含了`Spring Boot Cloud` 的各种依赖；
 
 ![](https://ws2.sinaimg.cn/large/006tNc79ly1frr0i4nxvwj30rk0j4wer.jpg)
 
